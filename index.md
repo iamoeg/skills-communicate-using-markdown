@@ -8,6 +8,12 @@ Lorem ipsum sit dolor amet.
 
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet. 
 
+```python
+import random
+
+print(random.choice(["heads", "tails"]))
+```
+
 ## Another H2 header
 
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet. 
