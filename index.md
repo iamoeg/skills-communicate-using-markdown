@@ -17,3 +17,9 @@ print(random.choice(["heads", "tails"]))
 ## Another H2 header
 
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet. 
+
+### To Do
+
+- [x] Some task
+- [x] Some other task
+- [ ] Yet another task
